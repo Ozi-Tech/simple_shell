@@ -11,7 +11,7 @@ The implementation of a simple shell. The shell is an interactive interface that
 
 - clone the repository
 
-     https://github.com/sertsev/simple_shell
+     https://github.com/Ozi-Tech/simple_shell.git
 
 - compile with
 
